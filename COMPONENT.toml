@@ -3,7 +3,7 @@ name = "SigmaOS-tkx"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "tkx component"
+description = "tkx platform GUI toolkit component"
 upstream = []
 
 [contract]
